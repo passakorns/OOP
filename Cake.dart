@@ -4,7 +4,10 @@ class Cake{
 
   String? nameShop;
 
+  double? price;
+
   String toString()=> 'Name shop is ${nameShop} model is ${model}';
+
 
 }
 
